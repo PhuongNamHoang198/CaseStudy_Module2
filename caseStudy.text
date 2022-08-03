@@ -1,0 +1,8 @@
+Motorbike { licensePlate='FT-34521', driverName='Hiếu', distance=0 revenue = 0, isAvaiable=true}
+Motorbike { licensePlate='HH-88888', driverName='Hoàn', distance=0 revenue = 0, isAvaiable=true}
+Taxi { licensePlate='HG-12345', driverName='Toàn', distance=74 revenue = 700, isAvaiable=true}
+Taxi { licensePlate='FG-12384', driverName='Thanh', distance=0 revenue = 0, isAvaiable=true}
+Taxi { licensePlate='FE-78886', driverName='1', distance=65 revenue = 650, isAvaiable=true}
+Motorbike { licensePlate='HF-12399', driverName='Khai', distance=0 revenue = 0, isAvaiable=true}
+Taxi { licensePlate='FJ-34222', driverName='Khải', distance=12 revenue = 200, isAvaiable=true}
+Motorbike { licensePlate='FG-34567', driverName='Duyệt', distance=12 revenue = 150, isAvaiable=true}

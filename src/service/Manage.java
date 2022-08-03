@@ -1,7 +1,6 @@
 package service;
 
-import model.Vehicle;
-
+import model.*;
 import java.util.Comparator;
 import java.util.List;
 

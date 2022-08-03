@@ -8,7 +8,7 @@ import model.VehicleType;
 public class VehicleFactory {
     public static final Vehicle getVehicle(VehicleType type, String name,String licensePlate) {
         switch (type){
-            case Taxi:
+            case Tax i:
                 return new Taxi(licensePlate,name);
             case Motorbike:
                 return new Motorbike(licensePlate,name);
